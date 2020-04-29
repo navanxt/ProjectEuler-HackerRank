@@ -11,3 +11,5 @@ Check https://www.hackerrank.com/contests/projecteuler/challenges for the proble
  #3 - Largest prime factor
  
  #4 - Largest palindrome product
+ 
+ #5 - Smallest multiple
