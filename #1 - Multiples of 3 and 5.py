@@ -8,7 +8,7 @@ for a0 in range(t):
             sum+=i
     print(sum)
     
-#to reduce time -
+#to reduce time -->
 
 t=int(input())
 def ar(x):
