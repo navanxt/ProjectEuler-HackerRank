@@ -12,7 +12,7 @@ for a0 in range(t):
     n = int(input().strip())
     compute(n)
 
-# to execute within time limits -->
+# to reduce time -->
 
 palindromelist = []
 for i in range(100, 1000):
