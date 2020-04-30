@@ -15,3 +15,5 @@ Check https://www.hackerrank.com/contests/projecteuler/challenges for the proble
  #5 - Smallest multiple
  
  #6 - Sum square difference
+ 
+ #7 - 10001st prime
