@@ -13,3 +13,5 @@ Check https://www.hackerrank.com/contests/projecteuler/challenges for the proble
  #4 - Largest palindrome product
  
  #5 - Smallest multiple
+ 
+ #6 - Sum square difference
