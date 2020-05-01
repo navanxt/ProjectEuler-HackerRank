@@ -17,3 +17,5 @@ Check https://www.hackerrank.com/contests/projecteuler/challenges for the proble
  #6 - Sum square difference
  
  #7 - 10001st prime
+ 
+ #8 - Largest product in a series
