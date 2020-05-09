@@ -1,8 +1,5 @@
 # ProjectEuler+
 
-![](https://projecteuler.net/images/euler_portrait.png)
-![](https://aommaster.com/blog/wp-content/uploads/2014/07/HackerRankLogo.png)
-
 Coding contest in HackerRank with ProjectEuler challenges.
 
 Check https://www.hackerrank.com/contests/projecteuler/challenges for the problems.
