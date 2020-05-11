@@ -21,3 +21,5 @@ Check https://www.hackerrank.com/contests/projecteuler/challenges for the proble
  #8 - Largest product in a series
  
  #9 - Special pythagorean triplet
+ 
+ #10 - Summation of primes
