@@ -8,7 +8,7 @@
  
  2. Even fibonacci numbers
  
- #3 - Largest prime factor
+ 3. Largest prime factor
  
  #4 - Largest palindrome product
  
