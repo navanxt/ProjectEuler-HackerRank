@@ -12,7 +12,7 @@
  
  4. Largest palindrome product
  
- #5 - Smallest multiple
+ 5. Smallest multiple
  
  #6 - Sum square difference
  
