@@ -14,7 +14,7 @@
  
  5. Smallest multiple
  
- #6 - Sum square difference
+ 6. Sum square difference
  
  #7 - 10001st prime
  
