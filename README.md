@@ -18,7 +18,7 @@
  
  7. 10001st prime
  
- #8 - Largest product in a series
+ 8. Largest product in a series
  
  #9 - Special pythagorean triplet
  
