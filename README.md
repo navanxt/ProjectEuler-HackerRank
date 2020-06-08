@@ -20,7 +20,7 @@
  
  8. Largest product in a series
  
- #9 - Special pythagorean triplet
+ 9. Special pythagorean triplet
  
  #10 - Summation of primes
  
