@@ -24,4 +24,4 @@
  
  10. Summation of primes
  
- 11. Largest product in a grid
+ 11. 
