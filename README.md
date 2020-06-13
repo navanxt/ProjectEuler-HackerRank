@@ -24,4 +24,4 @@
  
  10. Summation of primes
  
- 11. Larges
+ 11. Largest
