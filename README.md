@@ -24,4 +24,4 @@
  
  10. Summation of primes
  
- 11. La
+ 11. Lar
